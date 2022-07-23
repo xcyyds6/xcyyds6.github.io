@@ -5,6 +5,7 @@ module.exports = {
         '@vuepress/active-header-links':{},
         'autobar':{}
     },
+    base:'/',
     markdown: {
         lineNumbers: true
     },
