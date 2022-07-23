@@ -1,8 +1,8 @@
 ---
 home: true
 # heroImage: /hero.png
-heroText: Hero 标题
-tagline: Hero 副标题
+heroText: 星辰的文档
+tagline: YYDS
 actionText: 快速上手 →
 actionLink: /home/
 features:
