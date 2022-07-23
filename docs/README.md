@@ -17,3 +17,5 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 sss
 
 ![美女](img/meinv.jpg)
+
+<video src="menc.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
