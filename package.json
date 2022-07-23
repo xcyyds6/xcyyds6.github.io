@@ -1,0 +1,18 @@
+{
+  "dependencies": {},
+  "name": "mydocs",
+  "version": "1.0.0",
+  "description": "我的文档",
+  "main": "index.js",
+  "repository": "https://github.com/xcyyds6/xcyyds6.github.io.git",
+  "author": "星辰 <2026093925@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.9.7",
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
