@@ -1,5 +1,4 @@
 {
-  "dependencies": {},
   "name": "mydocs",
   "version": "1.0.0",
   "description": "我的文档",
@@ -9,7 +8,8 @@
   "license": "MIT",
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.9.7",
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-autobar": "github:boboidream/vuepress-bar"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",

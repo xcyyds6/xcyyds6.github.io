@@ -1,4 +1,6 @@
 module.exports = {
+    title: '星辰的文档',
+    description: '文档是开发坚强的后盾！',
     plugins:{
         '@vuepress/active-header-links':{},
         'autobar':{}
