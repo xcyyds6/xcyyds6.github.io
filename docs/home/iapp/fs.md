@@ -9,3 +9,9 @@ let fs = require();
 
 ```
 
+>3，看人才
+
+``` js
+let fs = require();
+
+```
